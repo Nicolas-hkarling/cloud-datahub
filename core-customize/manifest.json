@@ -9,7 +9,7 @@
     "enableImageProcessingService": true,
     "extensions": [
         "cloudmediaconversion",
-        "mediaconversionbackoffice",
+        "mediaconversionbackoffice"
     ],
     "storefrontAddons": [
         {
