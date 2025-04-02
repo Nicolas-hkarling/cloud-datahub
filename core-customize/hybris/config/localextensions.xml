@@ -264,14 +264,6 @@
     <extension name='stocknotificationaddon' />
     <extension name='stocknotificationfacades' />
     <extension name='stocknotificationservices' />
-    <extension name='subscriptionbundlebackoffice' />
-    <extension name='subscriptionbundlecockpits' />
-    <extension name='subscriptionbundlefacades' />
-    <extension name='subscriptionbundleservices' />
-    <extension name='subscriptionbackoffice' />
-    <extension name='subscriptioncockpits' />
-    <extension name='subscriptionfacades' />
-    <extension name='subscriptionservices' />
     <extension name='textfieldconfiguratortemplateaddon' />
     <extension name='textfieldconfiguratortemplatebackoffice' />
     <extension name='textfieldconfiguratortemplatefacades' />
@@ -445,7 +437,6 @@
     <extension name='sapimpeximportadapter' />
     <extension name='scpiconnector' />
     <extension name='scpiconnectorbackoffice' />
-    <extension name='sapcpqsbintegration' />
     <extension name='sapcpqsbquotefacades' />
     <extension name='saprevenuecloudbackoffice' />
     <extension name='saprevenuecloudcustomer' />
