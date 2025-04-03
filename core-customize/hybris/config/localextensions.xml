@@ -437,7 +437,6 @@
     <extension name='sapimpeximportadapter' />
     <extension name='scpiconnector' />
     <extension name='scpiconnectorbackoffice' />
-    <extension name='sapcpqsbquotefacades' />
     <extension name='saprevenuecloudbackoffice' />
     <extension name='saprevenuecloudcustomer' />
     <extension name='saprevenueclouddpaddon' />
