@@ -463,5 +463,6 @@
     <extension name='sapcpiorderexchangeomsb2b' />
     <extension name='ysapcpiomsfulfillment' />
     <extension name='oauth2' />
+    <extension name='testhookodata' />
   </extensions>
 </hybrisconfig>
