@@ -1,0 +1,11 @@
+#Ant properties
+#Mon Oct 06 23:58:45 CEST 2025
+builddate=20251006 2358
+description=testhookodata
+group.id=de.hybris.platform
+module.name=platform-module
+name=testhookodata
+releasedate=20250604 0846
+vendor=hybris
+version=2211.45
+version.api=2211

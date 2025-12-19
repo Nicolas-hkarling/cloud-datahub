@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--
+ Copyright (c) 2021 SAP SE or an SAP affiliate company. All rights reserved.
+--><extensioninfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="extensioninfo.xsd">
+           
+    
+    <extension abstractclassprefix="Generated" classprefix="Testhookodata" jaloLogicFree="true" managername="TesthookodataManager" managersuperclass="de.hybris.platform.jalo.extension.Extension" name="testhookodata" usemaven="false">
+
+        
+        <requires-extension name="inboundservices"/>
+        <requires-extension name="inboundservices"/>
+
+        <coremodule generated="true" manager="org.sassa.jalo.TesthookodataManager" packageroot="org.sassa"/>
+                      
+        
+        <webmodule jspcompile="false" webroot="/testhookodata"/>
+
+    
+    </extension>
+              
+
+
+</extensioninfo>
