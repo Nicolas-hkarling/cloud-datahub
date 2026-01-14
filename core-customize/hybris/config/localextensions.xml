@@ -463,5 +463,8 @@
     <extension name='sapcpiorderexchangeomsb2b' />
     <extension name='ysapcpiomsfulfillment' />
     <extension name='oauth2' />
+    <extension name='cxaiocc' />
+    <extension name='cxaioccaddon' />
+    <extension name='cxaibackoffice' />
   </extensions>
 </hybrisconfig>
