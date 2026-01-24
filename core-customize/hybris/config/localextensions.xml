@@ -13,6 +13,7 @@
     <extension name='apiregistryservices' />
     <extension name='assistedservicecustomerinterestsfacades' />
     <extension name='assistedservicefacades' />
+    <extension name='assistedservicestorefront' />
     <extension name='assistedservicepromotionfacades' />
     <extension name='assistedserviceservices' />
     <extension name='assistedservicewebservices' />
