@@ -78,17 +78,6 @@
     <extension name='merchandisingservicesbackoffice' />
     <extension name='merchandisingsmartedit' />
     <extension name='merchandisingstorefrontsampledataaddon' />
-    <extension name='chinesecommercewebservicescommons' />
-    <extension name='chineseaddressaddon' />
-    <extension name='chineseaddressbackoffice' />
-    <extension name='chineseaddressfacades' />
-    <extension name='chineseaddressocc' />
-    <extension name='chineseaddressocctests' />
-    <extension name='chineseaddressservices' />
-    <extension name='chinesecommerceorgaddressaddon' />
-    <extension name='chinesecommerceorgaddressfacades' />
-    <extension name='productcockpit' />
-    <extension name='cockpit' />
     <extension name='commercefacades' />
     <extension name='commerceservices' />
     <extension name='commerceservicesbackoffice' />
