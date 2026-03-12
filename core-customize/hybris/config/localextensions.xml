@@ -324,9 +324,7 @@
     <extension name='gigyacpicustomerexchangemdm' />
     <extension name='gigyacpicustomerexchangemdmb2b' />
     <extension name='gigyafacades' />
-    <extension name='gigyaloginaddon' />
     <extension name='gigyaservices' />
-    <extension name='gigyauserdeleteservices' />
     <extension name='sapcpicustomerexchangemdm' />
     <extension name='sapcustomerlookupaddon' />
     <extension name='sapcustomerlookupservice' />
