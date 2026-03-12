@@ -462,7 +462,6 @@
     <extension name='sapcpiorderexchangeoms' />
     <extension name='sapcpiorderexchangeomsb2b' />
     <extension name='ysapcpiomsfulfillment' />
-    <extension name='oauth2' />
     <extension name='cxaiocc' />
     <extension name='cxaibackoffice' />
   </extensions>
