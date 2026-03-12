@@ -1,6 +1,12 @@
 {
-    "commerceSuiteVersion": "2211-jdk21.1",
+    "commerceSuiteVersion": "2211-jdk21.7",
     "enableImageProcessingService": true,
+    "extensionPacks" : [
+	 {
+           "name": "hybris-commerce-integrations",
+           "version": "2211-jdk21.5"
+       }
+	],
     "extensions": [
         "cloudmediaconversion",
         "mediaconversionbackoffice"
