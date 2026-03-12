@@ -88,7 +88,6 @@
     <extension name='yocctests' />
     <extension name='configurablebundleaddon' />
     <extension name='configurablebundlebackoffice' />
-    <extension name='configurablebundlecockpits' />
     <extension name='configurablebundlefacades' />
     <extension name='configurablebundleocc' />
     <extension name='configurablebundleocctests' />
@@ -266,7 +265,6 @@
     <extension name='cms2' />
     <extension name='cms2lib' />
     <extension name='cmsbackoffice' />
-    <extension name='cmscockpit' />
     <extension name='cmsfacades' />
     <extension name='cmsocc' />
     <extension name='cmswebservices' />
