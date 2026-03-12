@@ -87,7 +87,6 @@
     <extension name='chineseaddressservices' />
     <extension name='chinesecommerceorgaddressaddon' />
     <extension name='chinesecommerceorgaddressfacades' />
-    <extension name='admincockpit' />
     <extension name='productcockpit' />
     <extension name='cockpit' />
     <extension name='commercefacades' />
