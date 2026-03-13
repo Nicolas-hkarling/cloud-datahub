@@ -233,12 +233,6 @@
     <extension name='webservicescommons' />
     <extension name='ywebservices' />
     <extension name='orbeonweb' />
-    <extension name='xyformsbackoffice' />
-    <extension name='xyformsfacades' />
-    <extension name='xyformssamples' />
-    <extension name='xyformsservices' />
-    <extension name='xyformsstorefrontcommons' />
-    <extension name='xyformsweb' />
     <extension name='saporderexchange' />
     <extension name='saporderexchangeb2b' />
     <extension name='saporderexchangebackoffice' />
@@ -351,8 +345,6 @@
     <extension name='saps4omfacades' />
     <extension name='saps4omocc' />
     <extension name='saps4omservices' />
-    <extension name='sapsalesordersimulation' />
-    <extension name='sapsalesordersimulationbackoffice' />
     <extension name='sapfsmserviceorder' />
     <extension name='sapserviceorder' />
     <extension name='sapserviceorderbackoffice' />
