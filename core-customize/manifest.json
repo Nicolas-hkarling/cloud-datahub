@@ -5,8 +5,7 @@
 	 {
            "name": "hybris-commerce-integrations",
            "version": "2211-jdk21.5"
-       }
-	],
+       }],
     "extensions": [
         "cloudmediaconversion",
         "mediaconversionbackoffice"
@@ -296,7 +295,7 @@
                 {
                     "name": "resourceserver",
                     "contextPath": "/resourceserver"
-                },
+                }
             ]
         },
         {
@@ -351,7 +350,7 @@
                 {
                     "name": "orbeonweb",
                     "contextPath": "/web-orbeon"
-                },
+                }
             ]
         },
         {
