@@ -10,7 +10,6 @@
     <extension name='apiregistryservices' />
     <extension name='assistedservicecustomerinterestsfacades' />
     <extension name='assistedservicefacades' />
-    <extension name='assistedservicepromotionfacades' />
     <extension name='assistedserviceservices' />
     <extension name='assistedservicestorefront' />
     <extension name='assistedservicewebservices' />
@@ -68,8 +67,6 @@
     <extension name='commercewebservices' />
     <extension name='commercewebservicescommons' />
     <extension name='commercewebservicestests' />
-    <extension name='yocc' />
-    <extension name='yocctests' />
     <extension name='configurablebundlebackoffice' />
     <extension name='configurablebundlefacades' />
     <extension name='configurablebundleocc' />
@@ -117,9 +114,6 @@
     <extension name='entitlementbackoffice' />
     <extension name='entitlementfacades' />
     <extension name='entitlementservices' />
-    <extension name='eventtrackingmodel' />
-    <extension name='eventtrackingpublisher' />
-    <extension name='eventtrackingservices' />
     <extension name='inboundservices' />
     <extension name='integrationbackoffice' />
     <extension name='integrationbackofficetest' />
@@ -179,9 +173,6 @@
     <extension name='patches' />
     <extension name='springintegrationlibs' />
     <extension name='tomcatembeddedserver' />
-    <extension name='yempty' />
-    <extension name='yhacext' />
-    <extension name='yvoid' />
     <extension name='promotionenginebackoffice' />
     <extension name='promotionengineservices' />
     <extension name='droolsruleengineservices' />
@@ -231,14 +222,12 @@
     <extension name='permissionswebservices' />
     <extension name='swaggerintegration' />
     <extension name='webservicescommons' />
-    <extension name='ywebservices' />
     <extension name='orbeonweb' />
     <extension name='saporderexchange' />
     <extension name='saporderexchangeb2b' />
     <extension name='saporderexchangebackoffice' />
     <extension name='saporderexchangeoms' />
     <extension name='saporderexchangeomsb2b' />
-    <extension name='ysapomsfulfillment' />
     <extension name='sapinvoiceaddon' />
     <extension name='sapinvoicebol' />
     <extension name='sapinvoicefacades' />
@@ -280,7 +269,6 @@
     <extension name='sapdigitalpaymentbackoffice' />
     <extension name='sapdigitalpaymentocc' />
     <extension name='sapdigitalpaymentocctests' />
-    <extension name='ysapdpordermanagement' />
     <extension name='sapentitlementsfacades' />
     <extension name='sapentitlementsintegration' />
     <extension name='sapentitlementsintegrationb2b' />
@@ -331,8 +319,6 @@
     <extension name='sapreturnsbackoffice' />
     <extension name='sapreturnsexchange' />
     <extension name='sapreturnsexchangeb2b' />
-    <extension name='ysaperpreturnprocess' />
-    <extension name='ysapomsreturnprocess' />
     <extension name='sapcpioaaintegration' />
     <extension name='sapcpioaaorderintegration' />
     <extension name='sapoaacarintegration' />
@@ -352,7 +338,6 @@
     <extension name='sapserviceorderocc' />
     <extension name='sapserviceorderocctests' />
     <extension name='sapserviceproduct' />
-    <extension name='ysapcpis4cmomsfulfillment' />
     <extension name='sapimpeximportadapter' />
     <extension name='scpiconnector' />
     <extension name='scpiconnectorbackoffice' />
