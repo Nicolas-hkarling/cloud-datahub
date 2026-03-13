@@ -5,8 +5,7 @@
 	 {
            "name": "hybris-commerce-integrations",
            "version": "2211-jdk21.5"
-       }
-	],
+       },
     "extensions": [
         "cloudmediaconversion",
         "mediaconversionbackoffice"
