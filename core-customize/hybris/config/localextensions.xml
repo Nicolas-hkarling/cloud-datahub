@@ -201,11 +201,6 @@
     <extension name='smarteditwebservices' />
     <extension name='stocknotificationfacades' />
     <extension name='stocknotificationservices' />
-    <extension name='textfieldconfiguratortemplatebackoffice' />
-    <extension name='textfieldconfiguratortemplatefacades' />
-    <extension name='textfieldconfiguratortemplateocc' />
-    <extension name='textfieldconfiguratortemplateocctests' />
-    <extension name='textfieldconfiguratortemplateservices' />
     <extension name='cms2' />
     <extension name='cms2lib' />
     <extension name='cmsbackoffice' />
