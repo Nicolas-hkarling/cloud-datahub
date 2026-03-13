@@ -11,17 +11,6 @@
         "cloudmediaconversion",
         "mediaconversionbackoffice"
     ],
-    "storefrontAddons": [
-        {
-            "addons": [
-                "ordermanagementaddon"
-            ],
-            "storefronts": [
-                "yacceleratorstorefront"
-            ],
-            "template": "yacceleratorstorefront"
-        }
-    ],
     "useConfig": {
         "properties": [
             {
@@ -308,10 +297,6 @@
                     "name": "resourceserver",
                     "contextPath": "/resourceserver"
                 },
-                {
-                    "name": "datahubadapter",
-                    "contextPath": "/datahubadapter"
-                }
             ]
         },
         {
@@ -367,10 +352,6 @@
                     "name": "orbeonweb",
                     "contextPath": "/web-orbeon"
                 },
-                {
-                    "name": "xyformsweb",
-                    "contextPath": "/xyformsweb"
-                }
             ]
         },
         {
