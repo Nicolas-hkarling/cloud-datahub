@@ -42,12 +42,6 @@
     <extension name='pcmbackoffice' />
     <extension name='backoffice' />
     <extension name='platformbackoffice' />
-    <extension name='ybackoffice' />
-    <extension name='yacceleratorbackoffice' />
-    <extension name='yacceleratorcore' />
-    <extension name='yacceleratorfacades' />
-    <extension name='yacceleratorinitialdata' />
-    <extension name='yacceleratorstorefront' />
     <extension name='basecommerce' />
     <extension name='basecommercebackoffice' />
     <extension name='customerreview' />
