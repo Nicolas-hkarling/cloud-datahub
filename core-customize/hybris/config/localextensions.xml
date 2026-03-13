@@ -113,8 +113,6 @@
     <extension name='customerticketingocctests' />
     <extension name='ticketsystem' />
     <extension name='ticketsystembackoffice' />
-    <extension name='datahubadapter' />
-    <extension name='datahubclient' />
     <extension name='dataimportcommons' />
     <extension name='entitlementbackoffice' />
     <extension name='entitlementfacades' />
