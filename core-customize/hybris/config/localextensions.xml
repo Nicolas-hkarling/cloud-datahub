@@ -206,10 +206,6 @@
     <extension name='textfieldconfiguratortemplateocc' />
     <extension name='textfieldconfiguratortemplateocctests' />
     <extension name='textfieldconfiguratortemplateservices' />
-    <extension name='timedaccesspromotionenginebackoffice' />
-    <extension name='timedaccesspromotionenginefacades' />
-    <extension name='timedaccesspromotionengineocc' />
-    <extension name='timedaccesspromotionengineservices' />
     <extension name='cms2' />
     <extension name='cms2lib' />
     <extension name='cmsbackoffice' />
