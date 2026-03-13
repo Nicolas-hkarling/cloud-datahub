@@ -92,7 +92,6 @@
     <extension name='acceleratorocc' />
     <extension name='acceleratorservices' />
     <extension name='acceleratorstorefrontcommons' />
-    <extension name='addonsupport' />
     <extension name='couponbackoffice' />
     <extension name='couponfacades' />
     <extension name='couponservices' />
