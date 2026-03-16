@@ -349,5 +349,6 @@
     <extension name='ysapcpiomsfulfillment' />
     <extension name='cxaiocc' />
     <extension name='cxaibackoffice' />
+    <extension name='cxaiaskproductocc' />
   </extensions>
 </hybrisconfig>
