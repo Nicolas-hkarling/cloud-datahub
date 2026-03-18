@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+ Copyright (c) 2019 SAP SE or an SAP affiliate company. All rights reserved.
+-->
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:aop="http://www.springframework.org/schema/aop"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+           http://www.springframework.org/schema/beans/spring-beans.xsd
+           http://www.springframework.org/schema/aop
+           http://www.springframework.org/schema/aop/spring-aop.xsd
+           http://www.springframework.org/schema/context
+           http://www.springframework.org/schema/context/spring-context.xsd">
+           
+    <context:annotation-config/> 
+
+	<bean id="cxaiaskproductaddonCoreDataImportedEventListener" parent="abstractCoreDataImportedEventListener">
+		<property name="supportedChannels">
+			<list value-type="de.hybris.platform.commerceservices.enums.SiteChannel">
+				<value>B2C</value>
+				<!--
+								<value>B2B</value>
+				-->
+			</list>
+		</property>
+		<property name="addonExtensionMetadata">
+			<bean class="de.hybris.platform.addonsupport.data.AddonExtensionMetadata">
+				<property name="suffixChannel" value="false"/>
+				<property name="baseExtensionName" value="cxaiaskproductaddon"/>
+			</bean>
+		</property>
+	</bean>
+
+	<bean id="cxaiaskproductaddonSampleDataEventListener" parent="abstractGenericAddOnSampleDataEventListener"  >
+		<property name="extensionName" value="cxaiaskproductaddon" />
+	</bean>
+
+	<!-- valid customer's occ token is needed to perform actions like add to cart etc -->
+	<alias name="defaultAcceleratorOccTokenService" alias="acceleratorOccTokenService"/>
+	<bean id="defaultAcceleratorOccTokenService" class="com.sap.cxaiaskproductaddon.service.impl.DefaultAcceleratorOccTokenService">
+		<constructor-arg ref="userService"/>
+		<constructor-arg ref="oauthTokenServices"/>
+		<constructor-arg ref="configurationService"/>
+	</bean>
+	
+	<alias name="defaultAcceleratorOccUrlService" alias="acceleratorOccUrlService"/>
+	<bean id="defaultAcceleratorOccUrlService" class="com.sap.cxaiaskproductaddon.service.impl.DefaultAcceleratorOccUrlService">
+		<constructor-arg ref="configurationService"/>
+	</bean>
+</beans>
