@@ -247,7 +247,6 @@
     <extension name='gigyafacades' />
     <extension name='gigyaservices' />
     <extension name='sapcpicustomerexchangemdm' />
-    <extension name='sapcustomerlookupservice' />
     <extension name='cissapdigitalpayment' />
     <extension name='sapdigitalpaymentbackoffice' />
     <extension name='sapdigitalpaymentocc' />
